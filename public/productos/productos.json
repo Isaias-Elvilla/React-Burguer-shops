@@ -1,0 +1,40 @@
+[
+
+    {
+        "id":1,
+        "title":"Hamburguesa Super",
+        "description":"Hamburguesa de carne de res, cebolla y lechuga",
+        "price":500,
+        "pictureUrl":"../productos/imagenes/img1.png",
+        "category":"Hamburguesas de carne"
+    },
+
+    {
+        "id":2,
+        "title":"Hamburguesa doble",
+        "description":"Hamburguesa de doble carne de res con queso cheddar",
+        "price":700,
+        "pictureUrl":"../productos/imagenes/img2.png",
+        "category":"Hamburguesas de carne"
+    },
+    
+    {
+        "id":3,
+        "title":"Hamburguesa Vegana",
+        "description":"Hamburguesa de falafel de garbanzos",
+        "price":800,
+        "pictureUrl":"../productos/imagenes/img4.png",
+        "category":"Hamburguesas veganas"
+    },
+
+    {
+        "id":4,
+        "title":"Valiendo combo",
+        "description":"1 super hamburguesa con ración de papas fritas",
+        "price":850,
+        "pictureUrl":"../productos/imagenes/img3.png",
+        "category":"Combos"
+       
+    }
+    
+]
